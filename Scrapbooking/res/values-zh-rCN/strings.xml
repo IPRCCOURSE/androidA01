@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">剪贴簿</string>
+    <string name="hello_world">你好世界！</string>
+    <string name="action_settings">设置</string>
+    <string name="L1_description">旧金山美景摩天大楼</string>
+    <string name="L2_description">Flatiron大楼 是多伦多的历史地标</string>
+    <string name="L3_description">伦敦大笨钟 </string>
+    <string name="L4_description">艺术宫殿北塔楼</string>
+</resources>
+
